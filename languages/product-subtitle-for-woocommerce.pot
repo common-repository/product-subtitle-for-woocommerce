@@ -1,0 +1,58 @@
+# Copyright (C) 2024 SpiderWares
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Subtitles for WooCommerce 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-subtitle-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-21T11:50:07+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: product-subtitle-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: product-subtitle-for-woocommerce.php
+msgid "Product Subtitles for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: product-subtitle-for-woocommerce.php
+msgid "https://spiderwares.com/producttagline/"
+msgstr ""
+
+#. Description of the plugin
+#: product-subtitle-for-woocommerce.php
+msgid "Enhance your WooCommerce store with the Product Subtitle for WooCommerce plugin. Add customizable, dynamic subtitles to your products to highlight key features, promotions, and unique selling points"
+msgstr ""
+
+#. Author of the plugin
+#: product-subtitle-for-woocommerce.php
+msgid "SpiderWares"
+msgstr ""
+
+#. Author URI of the plugin
+#: product-subtitle-for-woocommerce.php
+msgid "https://spiderwares.com/"
+msgstr ""
+
+#: admin/class-pswc-admin.php:50
+#: admin/class-pswc-setting-tab.php:67
+msgid "Product Subtitle"
+msgstr ""
+
+#: admin/class-pswc-setting-tab.php:391
+msgid "Product Sub Title"
+msgstr ""
+
+#: admin/class-pswc-setting-tab.php:488
+#: product-subtitle-for-woocommerce.php:105
+msgid "Settings"
+msgstr ""
+
+#: product-subtitle-for-woocommerce.php:79
+msgid "Product Subtitle for WooCommerce is enabled but not effective. It requires WooCommerce to work."
+msgstr ""

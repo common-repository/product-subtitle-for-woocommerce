@@ -1,0 +1,26 @@
+{
+    "name": "product-subtitle-for-woocommerce",
+    "version": "1.0.0",
+    "description": "**Contributors:** SpiderWares  \r **Tags:** product subtitle, product subtitle for woocommerce, subtitle, wc product subtitle, woocommerce product subtitle  \r **Requires at least:** 5.2  \r **Donate link:** https://paypal.me/KishanMangukiya  \r **Tested up to:** 6.6  \r **Requires PHP:** 7.4  \r **Stable tag:** 1.1.2\r **License:** GPL-2.0+  \r **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  \r **Text Domain:** product-subtitle-for-woocommerce  \r **Domain Path:** /languages",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack --mode production",
+        "start": "webpack --watch --mode development",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.26.0",
+        "@babel/preset-env": "^7.26.0",
+        "@babel/preset-react": "^7.25.9",
+        "@wordpress/babel-preset-default": "^8.10.0",
+        "babel-loader": "^9.2.1",
+        "css-loader": "^7.1.2",
+        "mini-css-extract-plugin": "^2.9.1",
+        "style-loader": "^4.0.0",
+        "webpack": "^5.95.0",
+        "webpack-cli": "^5.1.4"
+    }
+}
